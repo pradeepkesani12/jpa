@@ -1,4 +1,5 @@
 ## Getting Started with JPA and Hibernate
+....
 
 - Step 01 - Getting Started with JPA and Hibernate - Goals
 - Step 02 - Setting up New Spring Boot Project for JPA and Hibernate
