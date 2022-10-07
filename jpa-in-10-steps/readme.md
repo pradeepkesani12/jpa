@@ -13,7 +13,7 @@
 - Step 11 - Exploring features of Spring Data JPA
 - Step 12 - Understanding difference between Hibernate and JPA
 
-
+...
 <!---
 Current Directory : /Users/ranga/Ranga/git/00.courses/getting-started-for-beginners-v2/jpa-and-hibernate-in-10-steps
 -->
